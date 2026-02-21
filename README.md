@@ -1,4 +1,4 @@
-# 🐍 Python Mastery Notes by DoxPro
+# 🐍 Python Mastery Notes by 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/acd3bffd-1650-460b-8beb-3e4928b4c258" alt="DoxPro Logo" width="600">
@@ -55,7 +55,7 @@ We follow a modular approach to ensure deep conceptual understanding. Here is th
 graph TD
     A[💖Level 1: Fundamentals] -- Basics & Unicode --> B[🧵 Level 2: Strings & Ops]
     B -- Slicing & Methods --> C[🔀 Level 3: Control Flow]
-    C -- Conditions & Loops --> *[✨patterns]
+    C -- Conditions & Loops --> *[✨patterns ]
     * --  star patters for logic building --> D[ Level 4: Data Structures]
     D -- Collections --> E[⚙️ Level 5: Functions]
     E -- Modularity --> F[📝 Level 6: Interview Mastery]
