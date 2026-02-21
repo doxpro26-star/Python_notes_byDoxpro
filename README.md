@@ -36,7 +36,7 @@ From the basic "Hello World" to complex data structures and interview-specific l
 
 ---
 
-## � Why DoxPro Notes?
+## 😃 Why DoxPro Notes?
 
 | Feature | Benefit |
 | :--- | :--- |
@@ -53,10 +53,10 @@ We follow a modular approach to ensure deep conceptual understanding. Here is th
 
 ```mermaid
 graph TD
-    A[� Level 1: Fundamentals] -- Basics & Unicode --> B[🧵 Level 2: Strings & Ops]
+    A[💖Level 1: Fundamentals] -- Basics & Unicode --> B[🧵 Level 2: Strings & Ops]
     B -- Slicing & Methods --> C[🔀 Level 3: Control Flow]
-    C -- Conditions & Loops --> *[�patterns]
-    * --  star patters for logic building --> D[� Level 4: Data Structures]
+    C -- Conditions & Loops --> *[✨patterns]
+    * --  star patters for logic building --> D[ Level 4: Data Structures]
     D -- Collections --> E[⚙️ Level 5: Functions]
     E -- Modularity --> F[📝 Level 6: Interview Mastery]
     F --> G{for ML Ready}
@@ -66,7 +66,7 @@ graph TD
 
 ---
 
-## �️ Module Breakdown
+## ✔ Module Breakdown
 
 Explore each chapter of your journey:
 
@@ -122,7 +122,7 @@ We believe in the power of community! 🌍
 
 ---
 
-## � Connect with Us
+##  ❤Connect with Us
 
 Stay updated with more resources and robotics projects from **DoxPro**:
 
