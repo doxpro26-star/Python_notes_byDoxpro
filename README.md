@@ -77,6 +77,8 @@ Explore each chapter of your journey:
 ### 🔹 Module 2: Logic & Control
 - **[Python_IfElse_Break_Continue.docx](./Python_IfElse_Break_Continue.docx)**: Making decisions and controlling execution flow.
 - **[Python_Collections_Loops.docx](./Python_Collections_Loops.docx)**: Handling groups of data efficiently.
+- **[Python_Loops_Tasks_DoxPro.docx](./Python_Loops_Tasks_DoxPro.docx)**: Practical exercises to master loops and iterations.
+- **[Python_StarPatterns_DoxPro.docx](./Python_StarPatterns_DoxPro.docx)**: Logic building through various star pattern challenges.
 
 ### 🔹 Module 3: Advanced Abstraction
 - **[Python_Functions_DoxPro.docx](./Python_Functions_DoxPro.docx)**: Code reusability and modular design.
@@ -88,7 +90,21 @@ Explore each chapter of your journey:
 
 ---
 
-## � Quick Start Guide
+## �️ Project Structure & Resources
+
+| Category | Description | Resource Link |
+| :--- | :--- | :--- |
+| **🚀 Fundamentals** | Basics, Print, and Unicode handling | [View Document](./Python_Print_Unicode.docx) |
+| **🧵 String Mastery** | Slicing, methods, and manipulation | [View Document](./Python_String_Notes_DoxPro.docx) |
+| **🔀 Control Flow** | If-Else, Break, and Continue logic | [View Document](./Python_IfElse_Break_Continue.docx) |
+| **📊 Data Structures** | Lists, Tuples, Sets, and Dictionaries | [View Document](./Python_Collections_Loops.docx) |
+| **🔄 Loops & Logic** | **Loop Tasks** and Star Pattern challenges | [Tasks](./Python_Loops_Tasks_DoxPro.docx) \| [Patterns](./Python_StarPatterns_DoxPro.docx) |
+| **⚙️ Functions** | Modular programming and reusability | [Notes](./Python_Functions_DoxPro.docx) \| [Tasks](./Python_Functions_Tasks_DoxPro.docx) |
+| **💼 Interview Prep** | Industry-standard Q&A and core notes | [QA](./Python_Interview_QA_v2.docx) \| [Summary](./Python_Notes_DoxPro%20(1).docx) |
+
+---
+
+## 🚀 Quick Start Guide
 
 To get the most out of these resources, follow this recommended setup:
 
@@ -122,7 +138,7 @@ We believe in the power of community! 🌍
 
 ---
 
-##  ❤Connect with Us
+## ❤️ Connect with Us
 
 Stay updated with more resources and robotics projects from **DoxPro**:
 
