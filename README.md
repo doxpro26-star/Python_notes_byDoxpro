@@ -55,8 +55,8 @@ We follow a modular approach to ensure deep conceptual understanding. Here is th
 graph TD
     A[� Level 1: Fundamentals] -- Basics & Unicode --> B[🧵 Level 2: Strings & Ops]
     B -- Slicing & Methods --> C[🔀 Level 3: Control Flow]
-    C -- Conditions & Loops --> D[� Level 4: Data Structures]
-    * --  star patters for logic building --> *[👍 : patterns]
+    C -- Conditions & Loops --> *[�patterns]
+    * --  star patters for logic building --> D[� Level 4: Data Structures]
     D -- Collections --> E[⚙️ Level 5: Functions]
     E -- Modularity --> F[📝 Level 6: Interview Mastery]
     F --> G{🎯 Job Ready}
