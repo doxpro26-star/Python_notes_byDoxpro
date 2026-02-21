@@ -53,8 +53,8 @@ This repository is organized into specific modules focused on core Python concep
 - [x] Python Basics (Print, Unicode, Strings)
 - [x] Control Flow (Conditions & Loops)
 - [x] Data Structures (Collections)
-- [x] Interview Preparation Guide
-- [ ] Advanced Python (Decorators, Generators) - *Coming Soon*
+- [x] python functions
+- [] Interview Preparation Guide- *Coming Soon*
 - [ ] OOPs Concepts - *Coming Soon*
 
 ---
