@@ -84,7 +84,8 @@ Project Link: [https://github.com/doxpro26-star/Python_notes_byDoxpro](https://g
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Python/Python.png" width="200" alt="Python Logo">
+ <img width="899" height="342" alt="image" src="https://github.com/user-attachments/assets/c3e6024a-d233-44ae-b3ac-aaf9aabf2553" />
+
 </p>
 
 ---
