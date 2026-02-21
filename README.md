@@ -59,7 +59,7 @@ graph TD
     * --  star patters for logic building --> D[� Level 4: Data Structures]
     D -- Collections --> E[⚙️ Level 5: Functions]
     E -- Modularity --> F[📝 Level 6: Interview Mastery]
-    F --> G{🎯 Job Ready}
+    F --> G{for ML Ready}
     
     style G fill:#f9f,stroke:#333,stroke-width:4px
 ```
