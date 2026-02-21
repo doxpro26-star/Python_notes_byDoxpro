@@ -84,7 +84,8 @@ Project Link: [https://github.com/doxpro26-star/Python_notes_byDoxpro](https://g
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="center">
- <img width="899" height="342" alt="image" src="https://github.com/user-attachments/assets/c3e6024a-d233-44ae-b3ac-aaf9aabf2553" />
+ <img width="364" height="138" alt="image" src="https://github.com/user-attachments/assets/acd3bffd-1650-460b-8beb-3e4928b4c258" />
+
 
 </p>
 
