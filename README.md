@@ -98,12 +98,10 @@ We welcome contributions to make this resource even better!
 
 ---
 
-## 📜 License
 
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
 ---
 
 <p align="center">
-  <i>Created with ❤️ by <b>DoxPro</b></i>
+  <i>Created with 💕 by <b>DoxPro</b></i>
 </p>
